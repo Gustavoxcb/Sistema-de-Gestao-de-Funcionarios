@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1712533905 source:h:\meu drive\ufu\7º periodo\algoritmos e estrutura de dados l\trabalho_pratico_02-grupo05\departamento.c
+	<stdlib.h>
+	<string.h>
+	"departamento.h"
+	"Funcionario.h"
+
+1712533885 h:\meu drive\ufu\7º periodo\algoritmos e estrutura de dados l\trabalho_pratico_02-grupo05\departamento.h
+
+1712583860 source:h:\meu drive\ufu\7º periodo\algoritmos e estrutura de dados l\trabalho_pratico_02-grupo05\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funcionario.h"
+
+1712583859 h:\meu drive\ufu\7º periodo\algoritmos e estrutura de dados l\trabalho_pratico_02-grupo05\funcionario.h
+
+1712534835 source:h:\meu drive\ufu\7º periodo\algoritmos e estrutura de dados l\trabalho_pratico_02-grupo05\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcionario.h"
+
+1712709170 source:c:\users\atsug\dropbox\my pc (laptop-m2dtuolf)\downloads\trabalho_pratico_02-grupo05 3\trabalho_pratico_02-grupo05\departamento.c
+	<stdlib.h>
+	<string.h>
+	"departamento.h"
+	"Funcionario.h"
+
+1712709170 c:\users\atsug\dropbox\my pc (laptop-m2dtuolf)\downloads\trabalho_pratico_02-grupo05 3\trabalho_pratico_02-grupo05\departamento.h
+
+1712712441 c:\users\atsug\dropbox\my pc (laptop-m2dtuolf)\downloads\trabalho_pratico_02-grupo05 3\trabalho_pratico_02-grupo05\funcionario.h
+
+1712713816 source:c:\users\atsug\dropbox\my pc (laptop-m2dtuolf)\downloads\trabalho_pratico_02-grupo05 3\trabalho_pratico_02-grupo05\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funcionario.h"
+
+1712712740 source:c:\users\atsug\dropbox\my pc (laptop-m2dtuolf)\downloads\trabalho_pratico_02-grupo05 3\trabalho_pratico_02-grupo05\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcionario.h"
+
